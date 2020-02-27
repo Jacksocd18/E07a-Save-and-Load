@@ -21,7 +21,7 @@ config/icon="res://Sprites/icon.png"
 
 [autoload]
 
-SaveSystem="*res://Scenes/SaveSystem.gd"
+SaveSystem="*res://SaveSystem.gd"
 
 [display]
 
